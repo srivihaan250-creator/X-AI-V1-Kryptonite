@@ -8,7 +8,7 @@ X AI V1: Kryptonite Pro  The ultra-lightweight image creator for the low-end kin
 4. **Note for 8GB RAM**: Close Chrome or other heavy apps before generating to ensure the VRAM Purge works perfectly on the Lenovo E490.
 Have fun running the Project.
 ## NOTE FOR USAGE OF APP AND SCRIPT 
-DO NOT EDIT THE CODE IN PYCHARM, IT HAS BEEN TAILORED FOR EVERY USERS PC AND In the bottom left corner, there will be a dropdown that gives the option generaton modes,
+DO NOT EDIT THE CODE IN PYCHARM, IT HAS BEEN TAILORED FOR EVERY USER'S PC AND In the bottom left corner of the UI app interface, there will be a dropdown that gives the option generaton modes,
 Quick uses SDXL Turbo, fast, completes generation in 12 steps but is alittle bit low on quality.
 Normal uses SD 3.5, that generates images in 25 steps, slower, but higher in quality than quick mode.
 High quality uses flux 2.0, this is is the golden standard for image generation, it is optimize for 9+ GB RAM but it is the slowest and gives the highest quality reaching world industrial standards 
