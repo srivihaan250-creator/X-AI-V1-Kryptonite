@@ -9,6 +9,6 @@ X AI V1: Kryptonite Pro  The ultra-lightweight image creator for the low-end kin
 Have fun running the Project.
 ## NOTE FOR USAGE OF APP AND SCRIPT 
 DO NOT EDIT THE CODE IN PYCHARM, IT HAS BEEN TAILORED FOR EVERY USER'S PC AND In the bottom left corner of the UI app interface, there will be a dropdown that gives the option generaton modes,
-Quick uses SDXL Turbo, fast, completes generation in 12 steps but is alittle bit low on quality.
-Normal uses SD 3.5, that generates images in 25 steps, slower, but higher in quality than quick mode.
-High quality uses flux 2.0, this is is the golden standard for image generation, it is optimize for 9+ GB RAM and it is the slowest but it gives the highest quality image generation reaching world industrial standards 
+Quick is fast, completes generation in 12 steps but is alittle bit low on quality.
+Normal is 'the optimized,normal mode'that generates images in 25 steps, slower, but higher in quality than quick mode.
+High quality is the golden standard for image generation,using 50 steps it is optimize for 9+ GB RAM and it is the slowest but it gives the highest quality image generation reaching world industrial standards 
