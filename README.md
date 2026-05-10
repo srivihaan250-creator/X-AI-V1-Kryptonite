@@ -1,4 +1,4 @@
-# X-AI-V1-Kryptonite
+# X-AI-V1-Kryptonite edition
 X AI V1: Kryptonite Pro  The ultra-lightweight image creator for the low-end king. Optimized on a Lenovo E490 to run within strict 7.81GB RAM limits, this portable Python script delivers high-tier AI generation without the "Not Responding" lag. No installers, no MS Store hurdles—just raw, offline power for budget hardware. Built in India for creators .Built for the king. Built for the beggar, built for everyone, built for humanity.
 ## 🚀 How to Run X AI like a pro
 1. **Install Python**: Ensure you have Python 3.10+ installed on your system. LINK FOR DOWNLOADING PYCHARM=https://www.jetbrains.com/pycharm/download/?section=windows, once you've setup and installed python, open the link above the README link, copy the python code in that window, paste it in a new project in pycharm, run the pycharm terminal commands given in the 'setup dependecies'section of this README and preess the green run button(beside the debug button) and youre good to go
